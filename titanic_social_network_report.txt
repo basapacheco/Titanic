@@ -1,0 +1,31 @@
+
+Comprehensive Analysis and Prediction of Titanic Passengers' Survival Using Machine Learning
+
+1. Descriptive Statistics and Initial Analysis:
+   - The data was grouped by survival status and mean values for numeric columns were calculated.
+   - Analysis showed differences in average age, fare, and class between survivors and non-survivors.
+
+2. Gender Analysis:
+   - Male passengers: 577
+   - Female passengers: 314
+   - Survival rate for females: 0.74
+   - Survival rate for males: 0.19
+
+3. Class and Age Analysis:
+   - Survival rates varied significantly by class and age.
+   - Higher survival rates were observed in higher classes and among younger passengers.
+
+4. SibSp, Pclass, Age, and Embarked Analysis:
+   - Analysis of survival rates based on number of siblings/spouses, class, age, and embarkation point.
+   - Notable differences in survival rates based on these factors.
+
+5. Model Training and Evaluation:
+   - Logistic Regression Accuracy: 0.76
+   - SVM Accuracy: 0.66
+   - K-Nearest Neighbors Accuracy: 0.66
+   - Naive Bayes Accuracy: 0.77
+   - Decision Tree Accuracy: 0.74
+
+Conclusion:
+   - The Naive Bayes model was chosen as the best model based on its accuracy score of 0.77.
+   - This model was used to predict the survival of passengers in the test dataset.
