@@ -1,7 +1,5 @@
 # Comprehensive Analysis and Prediction of Titanic Passengers' Survival Using Machine Learning
 
-<img src="https://github.com/basapacheco/Titanic/blob/main/Titanic.jpg">
-
 This project focuses on predicting the survival of Titanic passengers by using machine learning algorithms and conducting a comprehensive data analysis.
 
 ## Libraries Used
